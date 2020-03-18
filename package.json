@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jbharwood/firebase#readme",
   "dependencies": {
-    "firebase": "^7.9.3"
-  }
+    "@google-cloud/firestore": "^3.6.0",
+    "firebase": "^7.10.0"
+  },
+  "type": "module"
 }
